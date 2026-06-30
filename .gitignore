@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Runtime artifacts (regenerated automatically)
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
