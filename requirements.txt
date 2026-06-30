@@ -1,0 +1,8 @@
+MiniSom==2.3.5
+numpy==2.0.2
+openai==2.15.0
+pandas==2.3.3
+plotly==6.5.0
+protobuf==6.33.2
+sentence-transformers==5.1.2
+streamlit==1.50.0
